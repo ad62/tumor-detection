@@ -1,0 +1,4 @@
+# tumor-detection
+Tumor cells are abnormal growth of cells. There three main types of tumor - benign, premalignant and malignant tumors. Manual segmentation of tumors and lesions can be time-consuming, highly operator dependent and tedious because of the large number of MRI images involved. Soft tissue boundaries may have blurred boundaries hence, obtaining accurate segmentation of a tumor is a huge task. Resnet50 is a classic neural network used as a backbone for many computer vision tasks. It consists of 48 convolution layers with 1 maxpool and 1 average pool layer. Resnet50 allows us to train extremely deep neural networks with 150+ layers successfully.
+The identification, classification and detection of tumor in infected organs 
+from MRI,CT and Histopathological images using deep learning.
